@@ -1,12 +1,10 @@
-這是一份完整的 `README.md` 文件，針對 `rtext` 模組的功能、參數設定以及技術限制進行了詳細說明。你可以將此內容存檔為 `README.md` 並置於專案根目錄。
-
----
-
 # rtext - Raylib Advanced Text Renderer
 
 **rtext** 是一個專為 [Raylib](https://www.raylib.com/) 設計的輕量級進階文字渲染模組。它基於 `stb_truetype`，特別針對 **大量文字（如 RPG/AVG 對話）** 與 **CJK（中日韓）字元** 進行了優化。
 
 本模組解決了 Raylib 原生文字繪製在處理大量動態中文字時的效能瓶頸，並提供了豐富的樣式功能（描邊、陰影、背景框、打字機效果）。
+
+![rText](rTextRander.mp4)
 
 ## ✨ 主要功能
 
