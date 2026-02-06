@@ -4,7 +4,7 @@
 
 本模組解決了 Raylib 原生文字繪製在處理大量動態中文字時的效能瓶頸，並提供了豐富的樣式功能（描邊、陰影、背景框、打字機效果）。
 
-![rText](rTextRander.mp4)
+[![o_O](rTextRander.mp4)](https://github.com/SoaB/soab.github.io)
 
 ## ✨ 主要功能
 
